@@ -136,3 +136,22 @@ body{
 .forgot-label:hover{
     background: #21201f;
 }
+.para{
+    float: left;
+    color: #746f6f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 160px;
+    margin-top: 50px;
+    font-size: 15px;
+}
+.link{
+    float: left;
+    margin-top: 50px;
+    margin-left: 5px;
+    text-decoration: none;
+    color: #0c4c8f;
+    cursor: pointer;
+}
+.link:hover{
+    text-decoration: underline;
+}
