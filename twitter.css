@@ -41,3 +41,98 @@ body{
     margin-left: 160px;
     margin-top: 15px;
 }
+.login-btn{
+    height: 45px;
+    background: white;
+    margin-left: 160px;
+    margin-top: 10px;
+    padding-right: 80px;
+    border-radius: 30px;
+}
+.google-img{
+    width: 24px;
+    float: left;
+    margin-left: 65px;
+    margin-top: 4px;
+}
+.google-label{
+    color: black;
+    background: white;
+    float: left;
+    margin-left: 10px;
+    margin-top: 8px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.apple-img{
+    width: 35px;
+    float: left;
+    margin-left: 60px;
+    margin-top: 2px;
+}
+.apple-label{
+    color: black;
+    background: white;
+    float: left;
+    margin-left: 4px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-right: 14px;
+}
+.line{
+    color: #2e2c2c;
+    padding-left: 162px;
+    font-family: sans-serif;
+}
+.username-btn{
+    width: 312px;
+    margin-left: 160px;
+    margin-top: -11px;
+    height: 50px;
+    border: 1px solid #2e2c2c;
+    background: black;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.next-label{
+    color: black;
+    background: white;
+    float: left;
+    margin-left: 140px;
+    margin-top: 11px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-right: 55px;
+}
+.forgot-btn{
+    height: 45px;
+    background: black;
+    border: 1px solid #605d5d;
+    margin-left: 160px;
+    margin-top: 10px;
+    padding-right: 80px;
+    border-radius: 30px;
+    float: left;
+    cursor: pointer;
+}
+.forgot-btn:hover{
+    background: #21201f;
+}
+.forgot-label{
+    color: white;
+    background: black;
+    float: left;
+    margin-left: 90px;
+    margin-top: 11px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.forgot-label:hover{
+    background: #21201f;
+}
