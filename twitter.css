@@ -35,3 +35,9 @@ body{
     margin-top: 7px;
     width: 43px;
 }
+.title{
+    color: white;
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    margin-left: 160px;
+    margin-top: 15px;
+}
