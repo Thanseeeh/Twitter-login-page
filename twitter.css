@@ -155,3 +155,6 @@ body{
 .link:hover{
     text-decoration: underline;
 }
+input{
+    color: white;
+}
